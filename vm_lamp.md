@@ -138,6 +138,8 @@ DocumentRoot /home/david/www
 nano /etc/apache2/apache2.conf
 ```
 
+![apache2.conf](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/apache2.conf.jpeg?raw=true)
+
 commenter
 
 <Directory /var/www/html>
