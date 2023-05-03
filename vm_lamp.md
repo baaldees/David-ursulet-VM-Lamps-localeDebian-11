@@ -70,6 +70,8 @@ a2ensite default-ssl
 ```
 service apache2 restart
 ```
+![Apache2](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/Apache2.jpeg?raw=true)
+
 
 ```
 openssl req $@ -new -x509 -days 3650 -nodes -out /etc/apache2/apache.pem -keyout /etc/apache2/apache.pem
@@ -557,9 +559,6 @@ mv wordpress www
 chown -R www-data:www-data /home/david/www
 chmod -R 775 /home/david/www
 ```
+![Wordpress](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/Worpress.jpeg?raw=true)
 
-
-
-
-
-![légende]()
+![wordpress](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/wordpress2.jpeg?raw=true)
