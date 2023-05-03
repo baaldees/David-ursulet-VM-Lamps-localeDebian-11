@@ -564,3 +564,7 @@ chmod -R 775 /home/david/www
 ![Wordpress](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/Worpress.jpeg?raw=true)
 
 ![wordpress](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/wordpress2.jpeg?raw=true)
+
+Les ports
+
+![les ports](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/les_ports.jpeg?raw=true)
