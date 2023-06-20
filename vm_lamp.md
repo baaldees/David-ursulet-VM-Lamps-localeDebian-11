@@ -50,7 +50,7 @@ nano /etc/nsswitch.conf
 ```
 ![nsswitch.conf](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/nano%20nsswitch.conf.jpeg?raw=true)
 ```
-nano /etc/date
+date
 ```
 ![date](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/date.jpeg?raw=true)
 
