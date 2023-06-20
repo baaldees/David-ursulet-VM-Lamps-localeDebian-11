@@ -46,11 +46,11 @@ nano /etc/hostname
 ```
 ![hostname](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/nano%20hostname.jpeg?raw=true)
 ```
-nsswitch.conf
+nano /etc/nsswitch.conf
 ```
 ![nsswitch.conf](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/nano%20nsswitch.conf.jpeg?raw=true)
 ```
-date
+nano /etc/date
 ```
 ![date](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/date.jpeg?raw=true)
 
