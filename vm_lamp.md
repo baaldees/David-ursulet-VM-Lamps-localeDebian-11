@@ -34,7 +34,7 @@ apt install winbind samba
 je vérifie et modifie au cas ou les dns
 
 ```
-resolv.conf
+nano /etc/resolv.conf
 ```
 ![resolv.conf](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/resolv.conf.jpeg?raw=true)
 ```
