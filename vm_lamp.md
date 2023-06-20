@@ -42,7 +42,7 @@ nano /etc/hosts
 ```
 ![hosts](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/nano%20hosts.jpeg?raw=true)
 ```
-hostname
+nano /etc/hostname
 ```
 ![hostname](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/nano%20hostname.jpeg?raw=true)
 ```
