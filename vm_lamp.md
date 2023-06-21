@@ -1,4 +1,4 @@
-# 							VM Lamps locale Debian 111
+# 							VM Lamps locale Debian 11
 
 ## CONFIGURATION DEBIAN 11
 
