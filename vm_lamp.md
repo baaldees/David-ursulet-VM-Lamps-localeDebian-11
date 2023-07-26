@@ -10,7 +10,11 @@
 
 ### Utilitaires installés  (apt install)
 
-ssh, nmap, zip, dnsutils, net-tools, tzdata, lynx, sudo, curl, git, screen,locate, ncdu
+```
+apt install ssh && apt install nmap && apt install zip && apt install dnsutils && apt install n
+et-tools && apt install tzdata && apt install lynx && apt install curl && apt install git && apt install screen && apt install locate && apt install ncdu
+
+```
 
 ## WEBMIN
 
