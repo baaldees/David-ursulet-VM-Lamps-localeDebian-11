@@ -112,11 +112,8 @@ cd /etc/apache2/sites-available/
 ```
 nano default-ssl.conf 
 ```
-![ssl](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/ssl.jpeg?raw=true)
+![ssl](https://github.com/baaldees/David-ursulet-VM-Lamps-localeDebian-11/blob/main/image_linux/nano%20default-ssl_conf%20.jpeg?raw=true)
 
-```
-nano default-ssl.conf 
-```
 
 ```
 service apache2 restart
