@@ -121,6 +121,10 @@ service apache2 restart
 
 Redirection et changement du documentroot
 
+```
+nano /etc/apache2/sites-available/000-default.conf
+```
+
 <VirtualHost *:80>
 
 ​					Redirect Permanent/https://debian.home
